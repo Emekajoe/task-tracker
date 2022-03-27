@@ -1,0 +1,19 @@
+.container {
+  align-items: center;
+  /* box-shadow: 0 3px 4px gray; */
+  display: flex;
+  justify-content: space-around;
+}
+h1 {
+  height: 35px;
+}
+
+.btn {
+  background-color: #000;
+  cursor: pointer;
+  width: 60px;
+  height: 35px;
+  color: #fff;
+  border: none;
+  box-shadow: 0 3px 5px rgb(94, 255, 108);
+}

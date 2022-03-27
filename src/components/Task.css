@@ -1,0 +1,23 @@
+.Task {
+  background: rgba(128, 128, 128, 0.156);
+  margin: 0 auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  color: rgb(128, 127, 127);
+  width: 90%;
+  font-weight: 500;
+}
+
+.reminder {
+  border-bottom: 2px solid green;
+}
+
+.Task-list {
+  list-style: none;
+}
+.Task-item {
+  padding: 13px 13px 13px 7px;
+}

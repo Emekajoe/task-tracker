@@ -1,0 +1,12 @@
+.DelBtn {
+  display: inline-block;
+  border: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
